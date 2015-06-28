@@ -1,0 +1,6 @@
+wc command:
+
+wc (options) (file(s))
+
+wc is used to count the number of characters, words or lines in a file, by using the -c, -w or -l options. 
+wc can be used to count multiple files and by default, without options, will print all three count.
