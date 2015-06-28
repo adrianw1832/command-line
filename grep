@@ -1,0 +1,7 @@
+grep command:
+
+grep (string) (file)
+
+grep is used to look for a particular string in the file and it prints out the entire line containing the string as output.
+It can only be used with files and not directories. The search parameter can be used with wildcards and other symbols for
+more specific results.
